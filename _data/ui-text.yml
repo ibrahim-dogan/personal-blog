@@ -187,7 +187,7 @@ tr: &DEFAULT_TR
   search_label               :
   toc_label                  : "İçindekiler"
   ext_link_label             : "Doğrudan Bağlantı"
-  less_than                  : "Şu süreden az: "
+  less_than                  : " "
   minute_read                : "dakika tahmini okuma süresi"
   share_on_label             : "Paylaş"
   meta_label                 :
